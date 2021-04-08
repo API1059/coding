@@ -26,4 +26,4 @@ int itrBinSearch(A, n, key)    //an array A of size 'n' and we have to search fo
 	return 0;
 }
 
-//I am making this comment so that I can use BUILD_NUMBER as commit message using Jenkins!
+//I'm making this comment to use BUILD_NUMBER as commit message using Jenkins!
